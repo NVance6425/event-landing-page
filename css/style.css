@@ -1,0 +1,9 @@
+.heroimage {
+    background-image: url("../img/MeetingRoom.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: cover;
+    height: 600px;
+    text-shadow: black 1px 1px;
+    max-width: 100%;
+}
